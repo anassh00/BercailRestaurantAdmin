@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BercailRestaurantAdmin/static/css/main.825d4ac4.css",
+    "main.js": "/BercailRestaurantAdmin/static/js/main.95b2c2d6.js",
+    "static/media/logo.svg": "/BercailRestaurantAdmin/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/BercailRestaurantAdmin/index.html",
+    "main.825d4ac4.css.map": "/BercailRestaurantAdmin/static/css/main.825d4ac4.css.map",
+    "main.95b2c2d6.js.map": "/BercailRestaurantAdmin/static/js/main.95b2c2d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.825d4ac4.css",
+    "static/js/main.95b2c2d6.js"
+  ]
+}
