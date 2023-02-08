@@ -7,7 +7,7 @@ import NavBar from '../NavBar/NavBar'
 import './Carte.css'
 import ReactLoading from "react-loading";
 
-const API_URL = "http://localhost:8000/";
+const API_URL = "https://bercail-restau-backend.herokuapp.com/";
 
 const Carte = () => {
 

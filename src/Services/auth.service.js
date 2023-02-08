@@ -1,7 +1,7 @@
 import axios from "axios";
 import authHeader from "./auth-header";
 
-const API_URL = "http://localhost:8000/";
+const API_URL = "https://bercail-restau-backend.herokuapp.com/";
 
 class AuthService {
   login(username, password) {
