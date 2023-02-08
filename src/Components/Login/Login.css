@@ -1,0 +1,20 @@
+.divContainer{
+    background-color: rgb(18, 18, 18);
+    color: white;
+    width: 430px;
+    height: 420px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 50%;
+    border-radius: 10px;
+    border: 2px solid;
+}
+
+.loginForm {
+    background-color: rgb(18, 18, 18);
+    color: white;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+}
