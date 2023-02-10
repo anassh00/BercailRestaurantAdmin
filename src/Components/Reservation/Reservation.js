@@ -95,7 +95,7 @@ const Reservation = () => {
                                                 {post.nbpersonne}
                                             </td>
                                             <td>
-                                                {convertDate(post.date)}
+                                                {post.datestring}
                                             </td>
                                             <td>
                                                 {post.time}
